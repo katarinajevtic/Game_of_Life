@@ -3,6 +3,10 @@ A Python implementation of Conway's Game of Life using the Pygame library for vi
 
 [About Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
+![life](https://github.com/katarinajevtic/Game_of_Life/assets/60469171/351a101a-4569-4e06-b41e-d50f97a41255)
+
+
+
 ## Features
 Random initialization of the grid with alive cells.
 
